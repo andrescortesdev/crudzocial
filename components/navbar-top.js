@@ -11,13 +11,13 @@ class NavbarTop extends HTMLElement {
                 <div class="collapse navbar-collapse" id="navbarNavDropdown">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                    <a class="nav-link" aria-current="page" href="#">Imagenes</a>
+                    <a class="nav-link" aria-current="page" href="https://andrescortesdev.github.io/crudzocial/pages/users/images.html">Imagenes</a>
                     </li>
                     <li class="nav-item">
-                    <a class="nav-link" href="#">Notas</a>
+                    <a class="nav-link" href="https://andrescortesdev.github.io/crudzocial/pages/users/notes.html">Notas</a>
                     </li>
                     <li class="nav-item">
-                    <a class="nav-link" href="#">Logs</a>
+                    <a class="nav-link" href="https://andrescortesdev.github.io/crudzocial/pages/users/logs.html">Logs</a>
                     </li>
                     
                 </ul>
@@ -27,8 +27,8 @@ class NavbarTop extends HTMLElement {
                           <img src="https://api.dicebear.com/7.x/initials/svg?seed=Robinson+Cortes" class="rounded-circle" width="40px"> Robinson Andres Cortes
                         </a>
                         <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="#">Perfil</a></li>
-                        <li><a class="dropdown-item" href="#">Cerrar sesion</a></li>
+                        <li><a class="dropdown-item" href="https://andrescortesdev.github.io/crudzocial/pages/users/profile.html">Perfil</a></li>
+                        <li><a class="dropdown-item" href="https://andrescortesdev.github.io/crudzocial/login.html">Cerrar sesion</a></li>
                         </ul>
                     </li>
                 </ul>
